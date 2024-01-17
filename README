@@ -1,1 +1,0 @@
-Tercera versió de README
